@@ -1,6 +1,6 @@
 # 🚕 Uber Fares Analysis Project
 
-This project is part of the coursework for **INSY 8413: Introduction to Big Data Analytics** at [Your Institution], conducted under the guidance of **Eric Maniraguha**.
+This project analyzes the Uber Fares Dataset from New York City using Power BI, focusing on patterns in pricing, time, and location. The dataset was sourced from Kaggle and includes ride details such as fare amounts, pickup/dropoff coordinates, and timestamps.
 
 ## 📊 Overview
 
